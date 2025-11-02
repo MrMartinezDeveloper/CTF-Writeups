@@ -1,4 +1,4 @@
-#🛡️ CTF-Writeups 🛡️
+#CTF-Writeups 🛡️
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Pentesting+Writeups;Vulnerability+Analysis;HackTheBox+Walkthroughs;TryHackMe+Reports" alt="Typing animation" />
